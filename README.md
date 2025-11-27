@@ -32,7 +32,6 @@ The highlight of this level is building a **BMI Calculator App** with dynamic re
 - UI: Combines layouts and views to create a clean, interactive interface.
 - Demonstrates handling user input, calculations, and updating UI dynamically.
 
-##Screeshots: -
 <img width="250" height="600" alt="Screenshot 2025-11-27 141156" src="https://github.com/user-attachments/assets/823a103d-dcd5-4fa1-8eb5-d55112c5d312" />
 <img width="250" height="600" alt="Screenshot 2025-11-27 141212" src="https://github.com/user-attachments/assets/a13f098b-de22-4eec-842e-9481b0082e28" />
 <img width="250" height="600" alt="Screenshot 2025-11-27 141228" src="https://github.com/user-attachments/assets/a9b3a83f-ea97-430c-b987-44e7f5bb3fb0" />
